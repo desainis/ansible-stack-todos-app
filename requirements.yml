@@ -1,0 +1,28 @@
+roles:
+  - name: aws-asg
+    src: https://github.com/desainis/aws-asg
+    version: origin/master
+
+  - name: aws-elasticache
+    src: https://github.com/desainis/aws-elasticache
+    version: origin/master
+
+  - name: aws-elb
+    src: https://github.com/desainis/aws-elb
+    version: origin/master
+
+  - name: aws-launch-template
+    src: https://github.com/desainis/aws-launch-template
+    version: origin/master
+
+  - name: aws-rds
+    src: https://github.com/desainis/aws-rds
+    version: origin/master
+
+  - name: aws-s3
+    src: https://github.com/desainis/aws-s3
+    version: origin/master
+
+collections:
+  - name: community.aws
+  - name: amazon.aws
